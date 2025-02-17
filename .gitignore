@@ -1,0 +1,8 @@
+# Ignore any .ipynb_checkpoints directories anywhere in the repo
+**/.ipynb_checkpoints/
+
+# Ignore any files with .m extension
+*.m
+
+# Ignore any files with .p extension
+*.p
